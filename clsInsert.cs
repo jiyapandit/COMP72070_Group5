@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 using System.IO;
-namespace Onana_Hospital_Management_System
+namespace MediNet_Hospital_Management_System
 {
     class clsInsert
     {
