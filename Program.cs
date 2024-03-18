@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Onana_Hospital_Management_System
+namespace MediNet_Hospital_Management_System
 {
     static class Program
     {
