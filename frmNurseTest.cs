@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Onana_Hospital_Management_System
+namespace MediNet_Hospital_Management_System
 {
     public partial class frmNurseTest : Form
     {
