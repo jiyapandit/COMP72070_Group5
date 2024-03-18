@@ -1,4 +1,4 @@
-﻿namespace Onana_Hospital_Management_System
+﻿namespace MediNet_Hospital_Management_System
 {
     partial class frmViewEmployee
     {
