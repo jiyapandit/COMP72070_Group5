@@ -9,7 +9,7 @@ using System.Data.SqlClient;
 using System.Drawing;
 using System.Data;
 using System.ComponentModel;
-namespace Onana_Hospital_Management_System
+namespace MediNet_Hospital_Management_System
 {
     class clsSelect:clsInsert
     {
