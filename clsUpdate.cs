@@ -10,7 +10,7 @@ using System.Drawing;
 using System.Data;
 using System.ComponentModel;
 
-namespace Onana_Hospital_Management_System
+namespace MediNet_Hospital_Management_System
 {
     //INHERITS FROM CLSINSERT
     class clsUpdate :clsInsert
