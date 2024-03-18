@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using Onana_Hospital_Management_System;
-namespace Onana_Hospital_Management_System
+namespace MediNet_Hospital_Management_System
 {
     public partial class Form1 : Form
     {
