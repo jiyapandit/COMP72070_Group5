@@ -11,11 +11,13 @@ Medinet helps hospitals manage things like patient records, appointments, and bi
 - Girish Bhuteja
 
 ## Features
-- **Admin Section**: For managing user accounts and settings.
+- **Admin Section**: This is for managing user accounts and settings.
 - **Doctor Section**: For scheduling appointments and writing prescriptions.
-- **Nurse Section**: For keeping track of patients and their treatments.
-- **Cashier Section**: For handling payments and bills.
+- **Nurse Section**: To keep track of patients and their treatments.
+- **Cashier Section**: This is for handling payments and bills.
 - **Pharmacist Section**: For managing medicines and inventory.
+- **Socket Programming**: We've added socket programming to improve communication between different parts of the system.
+- **Server Logging**: Our server now logs who logs in and provides useful data with just one click.
 
 ## How to Set Up
 1. Download the project files.
